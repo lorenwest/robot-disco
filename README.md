@@ -7,6 +7,6 @@ It extends the event model to other ThingNet processes within a local network.
 
 
 Language Bindings
-=================
+-----------------
 
 JavaScript - The NodeJS implementation lives at http://github.com/lorenwest/thingnet-js
