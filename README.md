@@ -1,4 +1,4 @@
 node-botnet
 ===========
 
-Network of robots running on small devices
+Private TCP/IP network of node.js robots running on small devices.  Robots are instances of node.js modules that interact with the physical world.
