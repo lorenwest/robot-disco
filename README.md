@@ -10,11 +10,9 @@ Documents
 
 Protocols are maintained in the wiki
 
-Connecting
-
-Listening to events
-
-Emitting events
+* Connecting
+* Listening to events
+* Emitting events
 
 
 Language Bindings
