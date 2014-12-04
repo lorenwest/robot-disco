@@ -1,7 +1,7 @@
 iotbots
 =======
 
-iotbots is a protocol for internet-of-things robots to communicate over a local network.
+iotbots is a protocol for internet-of-things robots communicating within a local network.
 
 It extends the event model to other iotbot processes within a local network.
 
