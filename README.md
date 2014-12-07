@@ -1,7 +1,7 @@
 RobotDisco
 ==========
 
-RobotDisco is a local network robot discovery protocol.
+RobotDisco is a robot discovery protocol for a local area network.
 
 It lets robots discover each other on the lan, so they can communicate with each other using the [cppp-io](https://github.com/hybridgroup/cppp-io) robot protocol.
 
