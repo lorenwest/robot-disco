@@ -1,7 +1,7 @@
 Robot Disco
 ===========
 
-A discovery protocol for robots in a local area network.
+A discovery protocol for robots.
 
 Once robots discover each other, they can communicate using the [cppp-io](https://github.com/hybridgroup/cppp-io) robot protocol.
 
