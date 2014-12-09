@@ -14,4 +14,4 @@ JavaScript - The NodeJS implementation lives at http://github.com/lorenwest/robo
 
 Discovery Protocol
 ------------------
-(tbd - like the awkward conversation you'd hear when two robots meet each other at a roller disco)
+(tbd - like the awkward conversation you'd hear when two robots meet at a roller disco)
